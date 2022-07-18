@@ -7,6 +7,9 @@ package com.wxy.day05;
  * 输出："PAHNAPLSIIGYIR"
  * Author: wxy
  * Date: 2022/7/18 14:57
+ 
+ 
+ github修改
  */
 public class Lt01 {
     public static void main(String[] args) {
