@@ -10,6 +10,7 @@ package com.wxy.day05;
  
  
  github修改
+ 本地修改测试提交main分支
  */
 public class Lt01 {
     public static void main(String[] args) {
