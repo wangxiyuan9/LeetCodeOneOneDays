@@ -1,3 +1,4 @@
 # LeetCodeOneOneDays
-Memory LeetCodeDays  by using java in new begin; 
-remote main master modified
+Here is Wangxiyuan.
+Memory LeetCodeDays  by using java in new begining; 
+
